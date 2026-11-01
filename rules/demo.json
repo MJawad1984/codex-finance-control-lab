@@ -1,0 +1,8 @@
+{
+  "version": "synthetic-demo-1",
+  "currencies": {
+    "USD": {"precision": 2, "tolerance": "0.00"},
+    "GBP": {"precision": 2, "tolerance": "0.00"}
+  },
+  "exception_owner": "Demo finance reviewer"
+}
